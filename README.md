@@ -1,4 +1,4 @@
-# Selenium-Soup
+# Soupy Selenium
 Hello, this is just a personal collection of codes that I will upload as I come across situations where I have to ask the assistance of automations to help me do boring work. 
 
 As the name implies. I will primarily use Selenium and BeautifulSoup to automate. 
